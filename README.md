@@ -1,5 +1,5 @@
 ```js
-import Desenvolvedor from "SeuNick";
+import Desenvolvedor, Contatos from "gum-gummii";
 
 class SobreMim extends Desenvolvedor {
   nome = "João Pedro";
@@ -17,4 +17,6 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens = ["LuaU", "Typescript", "Python"];
 }
+
+Contatos.email = "gummi_colonthree@outlook.com"
 ```
