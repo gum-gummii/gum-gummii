@@ -8,9 +8,9 @@ class SobreMim extends Desenvolvedor {
   periodo = 1;
 
   projetos = {
-    existentes = 15;
-    emDesemvolvimentoAtivo = 2;
-    finalizados = 0;
+    "existentes": 15;
+    "emDesemvolvimentoAtivo": 2;
+    "finalizados": 0;
   }
 }
 
